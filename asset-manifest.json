@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cars_24/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/cars_24/static/js/main.2398ca75.chunk.js",
-    "main.js.map": "/cars_24/static/js/main.2398ca75.chunk.js.map",
+    "main.css": "/cars_24/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/cars_24/static/js/main.ee6e5bb7.chunk.js",
+    "main.js.map": "/cars_24/static/js/main.ee6e5bb7.chunk.js.map",
     "runtime-main.js": "/cars_24/static/js/runtime-main.e63f4fe0.js",
     "runtime-main.js.map": "/cars_24/static/js/runtime-main.e63f4fe0.js.map",
     "static/css/2.e995eac1.chunk.css": "/cars_24/static/css/2.e995eac1.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.14fd1fc3.chunk.js.map": "/cars_24/static/js/3.14fd1fc3.chunk.js.map",
     "index.html": "/cars_24/index.html",
     "static/css/2.e995eac1.chunk.css.map": "/cars_24/static/css/2.e995eac1.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/cars_24/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/cars_24/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.354cd349.chunk.js.LICENSE.txt": "/cars_24/static/js/2.354cd349.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e63f4fe0.js",
     "static/css/2.e995eac1.chunk.css",
     "static/js/2.354cd349.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.2398ca75.chunk.js"
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.ee6e5bb7.chunk.js"
   ]
 }
